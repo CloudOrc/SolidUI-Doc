@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <strong>3D data visualization prototyping and editing platform</strong>
+  <strong>3D数据可视化原型设计和编辑平台</strong>
 </p>
 
 
@@ -34,31 +34,34 @@
 ---
 [English](README.md) | [中文](README_CN.md)
 
-# introduce
-3D data visualization prototyping and editing platform, support 2D, 3D models, combined with AIGC models for quick editing.
-
-## Documents
-
-&nbsp;&nbsp;&nbsp;&nbsp;Please visit [English Documents](en_US) to view the complete documents。
-
-# contribute
-
-We welcome and look forward to more contributors participating in building SolidUI, whether it is code, documentation, or other forms of contribution that can help the community.
+# 介绍
+3D数据可视化原型设计和编辑平台，支持2D，3D模型，结合AIGC模型快速编辑。
 
 
-# contact us
+# 文档目录
+&nbsp; &nbsp; &nbsp; &nbsp;请访问 [中文文档](zh_CN)， 查看 SolidUI 的完整文档列表。
 
-- For any questions and suggestions about SolidUI, you can submit an issue for tracking, processing and experience sharing
-- [bilibili](https://space.bilibili.com/472576729) (in Chinese)  
-- [slack](https://join.slack.com/t/solidui/shared_invite/zt-1r83iino0-SZD38aHAIw2KBA~DSpZndA)  
-- You can scan the QR code below and join our WeChat group for faster response (in Chinese)
+
+# 贡献
+
+我们非常欢迎和期待更多的贡献者参与共建 SolidUI, 不论是代码、文档，或是其他能够帮助到社区的贡献形式。  
+
+
+# 联系我们
+
+- 对 SolidUI 的任何问题和建议，可以提交 issue，以便跟踪处理和经验沉淀共享
+- [bilibili](https://space.bilibili.com/472576729) (in Chinese)
+- [slack](https://join.slack.com/t/solidui/shared_invite/zt-1r83iino0-SZD38aHAIw2KBA~DSpZndA)
+- 可以扫描下面的二维码，加入我们的微信群，以获得更快速的响应 (in Chinese)
 
 ![SolidUI1](docs/images/solidui_contact_01.png)
 
-- WeChat Official Account (in Chinese)
+- 微信公众号 (in Chinese)
 
 ![SolidUI2](docs/images/solidui_contact_02.png)
 
-# Who is using SolidUI
 
-We created an issue [[Who is Using SolidUI]](https://github.com/CloudOrc/SolidUI/issues/1) for user feedback and documentation of who is using SolidUI.
+
+# 谁在使用 SolidUI
+
+我们创建了一个 issue [[Who is Using SolidUI]](https://github.com/CloudOrc/SolidUI/issues/1) 以便用户反馈和记录谁在使用 SolidUI.  
