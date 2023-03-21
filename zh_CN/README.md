@@ -5,6 +5,8 @@ SolidUI是3D数据可视化原型设计和编辑平台，支持2D，3D模型，�
 ## 文档列表
 
 * [开发文档](开发文档)
+  * [SolidUI项目共建流程](开发文档/ProjectProcess/README.md)
+  * [SolidUI项目发版流程](开发文档/PublishingProcess/README.md)
 
 * [设计文档](设计文档)
   * [SolidUI前端架构设计文档](设计文档/SolidUI前端架构设计文档/README.md)
