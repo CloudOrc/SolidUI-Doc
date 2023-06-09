@@ -7,11 +7,11 @@ SolidUI项目发版流程
 
 ## 物料包
 ### 分支
-从待发布分支拉取新分支作为待发布分支，如现在要发布${release_version}版本，则从待发布分支拉取新分支release-${release_version}-${condition_version}， 此后所有操作都在release-${release_version}-${condition_version}分支上进行。
+从dev分支作为待发布分支，如现在要发布${release_version}版本，则从待发布分支拉取新分支release-${release_version}-${condition_version}， 此后所有操作都在release-${release_version}-${condition_version}分支上进行。
 
 ### 基于待发布的开发分支，创建release-${release_version}-rcx分支
 
-如当前开发的源码分支为dev-0.1.0，需要发布0.1.0的版本，创建分支：release-0.1.0-rc1
+如当前开发的源码分支为dev，需要发布0.1.0的版本，创建分支：release-0.1.0-rc1
 
 ### clone对应的release分支到本地
 ```shell
