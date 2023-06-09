@@ -8,12 +8,12 @@ SolidUI项目共建流程
 3. 提交 PR —— 贡献者（主导版本）
 4. code review —— PMC成员
 5. PR merge  —— PMC成员
-6. PR 提交到 master 分支  —— 贡献者（主导版本）
+6. PR 提交到 dev 分支  —— 贡献者（主导版本）
 7. 提交相关文档到 SolidUI-Doc（安装部署文档、用户使用文档、架构设计文档）提交 PR —— 贡献者（主导版本）
 8. SolidUI-Doc code review —— PMC成员
 9. SolidUI-Doc PR merge —— PMC成员
-10. SolidUI-Doc PR 提交到 master 分支  —— 贡献者（主导版本）
-11. 基于 master 分支进行打包 & 安装部署测试 —— 贡献者（主导版本）/测试人员
+10. SolidUI-Doc PR 提交到 dev 分支  —— 贡献者（主导版本）
+11. 基于 dev 分支进行打包 (建立打包分支) & 安装部署测试 —— 贡献者（主导版本）/测试人员
 12. 邀请社区用户内测  —— 运营员/PMC成员
 13. 准备 Release Notes —— 贡献者（主导版本）
 14. 正式发布版本 —— 贡献者（主导版本）
