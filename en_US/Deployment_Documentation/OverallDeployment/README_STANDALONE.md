@@ -14,7 +14,6 @@ Java version requirements: jdk1.8.0_201 or above
 
 Mysql5.7 or above
 
-### 1.3 Database preparation
 
 ## 2. Configuration modification
 ### 2.1 Installation package preparation
