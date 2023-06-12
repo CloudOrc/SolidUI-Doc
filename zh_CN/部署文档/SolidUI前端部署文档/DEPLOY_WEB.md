@@ -132,7 +132,7 @@ sudo systemctl restart nginx
 
 ## 3 登录
 
-浏览器访问`http://solidui_ipaddr:solidui_port` 其中solidui_port为config.sh里面配置的端口，solidui_ipaddr为安装机器的IP，默认的账号密码是：`admin/123456`
+浏览器访问`http://solidui_ipaddr:solidui_port` 其中solidui_port为config.sh里面配置的端口，solidui_ipaddr为安装机器的IP，默认的账号密码是：`admin/admin`
 
 ## 4 注意事项 
 

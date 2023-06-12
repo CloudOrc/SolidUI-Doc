@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <strong>3D data visualization prototyping and editing platform</strong>
+  <strong>AI visualization prototyping and editing platform</strong>
 </p>
 
 
@@ -35,7 +35,7 @@
 [English](README.md) | [中文](README_CN.md)
 
 # introduce
-3D data visualization prototyping and editing platform, support 2D, 3D models, combined with AIGC models for quick editing.
+AI visualization prototyping and editing platform, support 2D, 3D models, combined with AIGC models for quick editing.
 
 ## Documents
 
