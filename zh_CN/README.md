@@ -6,12 +6,12 @@ SolidUI是AI可视化原型设计和编辑平台，支持2D，3D模型，结合A
 
 
 * [设计文档](设计文档)
-  * [SolidUI前端架构设计文档](设计文档/SolidUI前端架构设计文档/README.md)
-  * [SolidUI服务端架构设计文档](设计文档/ServerArchitecture/README.md)
+  * [前端架构设计文档](设计文档/SolidUI前端架构设计文档/README.md)
+  * [服务端架构设计文档](设计文档/ServerArchitecture/README.md)
 
 * [开发文档](开发文档)
-  * [SolidUI项目共建流程](开发文档/ProjectProcess/README.md)
-  * [SolidUI项目发版流程](开发文档/PublishingProcess/README.md)
+  * [项目共建流程](开发文档/ProjectProcess/README.md)
+  * [项目发版流程](开发文档/PublishingProcess/README.md)
   * [服务端编译文档](开发文档/后端编译文档/README.md)
   * [Docker编译](开发文档/Docker镜像/README.md)
 
@@ -21,7 +21,7 @@ SolidUI是AI可视化原型设计和编辑平台，支持2D，3D模型，结合A
   * [单独部署](部署文档/整体部署/README_STANDALONE.md)
   
 * [测试文档](测试文档)
-  * [SolidUI测试文档](测试文档/SolidUI测试文档/README.md)
+  * [测试用例](测试文档/SolidUI测试文档/README.md)
   
 
   

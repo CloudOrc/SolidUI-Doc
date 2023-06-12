@@ -3,12 +3,28 @@
 SolidUI is a AI visualization prototyping and editing platform, support 2D, 3D models, combined with AIGC models for quick editing.
 
 ## Document list
-* [Development Document](Development_Document)
-  * [SolidUI Project Process](Development_Document/ProjectProcess/README.md)
-  * [SolidUI Publishing Process](Development_Document/PublishingProcess/README.md)
-  
+
 * [Design Documents](Design_Documents)
-  * [SolidUI Front-end Architecture Design Document](Design_Documents/SolidUI_Front-end_Architecture_Design_Document/README.md)
-  * [SolidUI Server Architecture Design Document](Design_Documents/ServerArchitecture/README.md)
+  * [Front-end Architecture Design Document](Design_Documents/SolidUI_Front-end_Architecture_Design_Document/README.md)
+  * [Server Architecture Design Document](Design_Documents/ServerArchitecture/README.md)
+
+
+* [Development Document](Development_Document)
+  * [Project Process](Development_Document/ProjectProcess/README.md)
+  * [Publishing Process](Development_Document/PublishingProcess/README.md)
+  * [Server Compilation](Development_Document/ServerCompilation/README.md)
+  * [Docker Images](Development_Document/DockerImages/README.md)
+  
+
+* [Deployment Documentation](Deployment_Documentation)
+  * [Web Deployment]()
+  * [Docker Deployment](Deployment_Documentation/OverallDeployment/README_DOCKER.md)
+  * [Standalone Deployment](Deployment_Documentation/OverallDeployment/README_STANDALONE.md)
+  
+
+* [Test Documentation](Test_Documentation)
+  * [Test Case](Test_Documentation/TestCase/README.md)
+
+
 
 Stay tuned for more documentation updates...

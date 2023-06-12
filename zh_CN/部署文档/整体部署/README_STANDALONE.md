@@ -19,7 +19,7 @@ Mysql5.7 或以上版本
 ## 2.配置修改
 ### 2.1 安装包准备
 
-* 方式1：从官网下载地址: https://github.com/CloudOrc/SolidUI/releases，下载对应的安装包（整体安装包）。
+* 方式1：从官网下载地址: https://github.com/CloudOrc/SolidUI/releases ，下载对应的安装包（整体安装包）。
 * 方式2：根据SolidUI 后端编译和前端编译自行编译出项目安装包和管理台安装包。
 
 上传安装包solidui-x.x.x-bin.tar.gz后，进行解压安装包
