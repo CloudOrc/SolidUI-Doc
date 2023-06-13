@@ -19,7 +19,7 @@ Mysql5.7 or above
 ### 2.1 Installation package preparation
 
 * Method 1: Download the address from the official website: https://github.com/CloudOrc/SolidUI/releases, and download the corresponding installation package (overall installation package).
-* Method 2: Compile the project installation package and management console installation package by yourself according to the SolidUI back-end compilation and front-end compilation.
+* Method 2: Compile the project installation package by yourself according to the SolidUI back-end compilation and front-end compilation.
 
 After uploading the installation package solidui-x.x.x-bin.tar.gz, decompress the installation package
 ```shell script
