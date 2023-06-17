@@ -11,7 +11,9 @@
 
 ### 2.1 下载部署包或者源码
 
-在https://github.com/CloudOrc/SolidUI/releases 下载
+方式1：从github仓库 https://github.com/CloudOrc/SolidUI 获取项目的源代码。
+
+方式2：从https://github.com/CloudOrc/SolidUI/releases 下载下载所需版本的源码包。
 
 请下载源码包 solidui-x.x.x-src.src.tar.gz 
 

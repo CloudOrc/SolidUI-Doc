@@ -13,11 +13,12 @@ SolidUI is a AI visualization prototyping and editing platform, support 2D, 3D m
   * [Project Process](Development_Document/ProjectProcess/README.md)
   * [Publishing Process](Development_Document/PublishingProcess/README.md)
   * [Server Compilation](Development_Document/ServerCompilation/README.md)
+  * [FrontEnd Compilation](Development_Document/FrontEndDocument/README.md)
   * [Docker Images](Development_Document/DockerImages/README.md)
   
 
 * [Deployment Documentation](Deployment_Documentation)
-  * [Web Deployment]()
+  * [Web Deployment](Deployment_Documentation/FrontEendDeployment/DEPLOY_WEB.md)
   * [Docker Deployment](Deployment_Documentation/OverallDeployment/README_DOCKER.md)
   * [Standalone Deployment](Deployment_Documentation/OverallDeployment/README_STANDALONE.md)
   

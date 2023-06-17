@@ -2,15 +2,15 @@
 
 ## 1 准备工作
 
-从`https://github.com/CloudOrc/SolidUI`克隆代码到本地，进入`solidui-web`目录，依次执行下面的命令：
+* 方式1：从官网下载地址: https://github.com/CloudOrc/SolidUI/releases ，下载对应的安装包（整体安装包）。
+* 方式2：根据SolidUI 自行编译出项目安装包。
 
-```bash
-npm install --legacy-peer-deps 
-
-npm run build
+```
+tar -zxvf solidui-x.x.x-bin.tar.gz
+#前端目录
+cd solidui-x.x.x/solidui-web
 ```
 
-`build`成功后的产物在`dist`目录下，下面进行部署。
 
 
 ## 2 部署
