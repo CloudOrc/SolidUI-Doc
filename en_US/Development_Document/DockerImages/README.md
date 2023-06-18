@@ -4,7 +4,8 @@
 
 [Docker](https://docs.docker.com/engine/install/) 1.13.1+
 
-Download deployment package https://github.com/CloudOrc/SolidUI/releases
+* Method 1: Download the address from the official website: https://github.com/CloudOrc/SolidUI/releases, and download the corresponding installation package (overall installation package).
+* Method 2: Compile the project installation package according to SolidUI.
 
 ## 2. Image building
 

@@ -10,9 +10,9 @@ Download Node.js locally and install it. Download address: http://nodejs.cn/down
 
 ### 1.2 Source code acquisition
 
-Method 1: Obtain the source code of the project from the github repository https://github.com/CloudOrc/SolidUI.
+* Method 1: Obtain the source code of the project from the github repository https://github.com/CloudOrc/SolidUI.
 
-Method 2: Download and download the source package of the required version from https://github.com/CloudOrc/SolidUI/releases.
+* Method 2: Download and download the source package of the required version from https://github.com/CloudOrc/SolidUI/releases.
 
 
 ## 2. Compile

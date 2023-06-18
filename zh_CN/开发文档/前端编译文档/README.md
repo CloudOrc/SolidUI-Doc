@@ -10,9 +10,9 @@
 
 ### 1.2 源码获取
 
-方式1：从github仓库 https://github.com/CloudOrc/SolidUI 获取项目的源代码。
+* 方式1：从github仓库 https://github.com/CloudOrc/SolidUI 获取项目的源代码。
 
-方式2：从https://github.com/CloudOrc/SolidUI/releases 下载下载所需版本的源码包。
+* 方式2：从https://github.com/CloudOrc/SolidUI/releases 下载下载所需版本的源码包。
 
 
 ## 2.编译

@@ -4,7 +4,8 @@
 
 [Docker](https://docs.docker.com/engine/install/) 1.13.1+
 
-下载部署包https://github.com/CloudOrc/SolidUI/releases
+* 方式1：从官网下载地址: https://github.com/CloudOrc/SolidUI/releases ，下载对应的安装包（整体安装包）。
+* 方式2：根据SolidUI 自行编译出项目安装包。
 
 ## 2.镜像构建
 

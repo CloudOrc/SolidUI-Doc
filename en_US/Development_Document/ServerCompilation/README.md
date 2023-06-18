@@ -10,7 +10,9 @@ Install Maven environment yourself, version 3.5.4 or above is recommended. Or yo
 
 ### 1.2 Get the source code
 
-Get the project source code from the GitHub repository https://github.com/CloudOrc/SolidUI.
+* Method 1: Obtain the source code of the project from the github repository https://github.com/CloudOrc/SolidUI.
+
+* Method 2: Download and download the source package of the required version from https://github.com/CloudOrc/SolidUI/releases.
 
 ## 2. Server-side compilation
 
