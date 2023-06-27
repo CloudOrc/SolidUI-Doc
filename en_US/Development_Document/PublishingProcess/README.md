@@ -13,6 +13,13 @@ Pull the new branch from the release branch as the release branch. If you want t
 
 If the currently developed source branch is dev-0.1.0, and you need to release version 0.1.0, create a branch: release-0.1.0-rc1
 
+### tag
+
+```
+git tag -a release-0.1.0-rc1 -m "release 0.1.0-rc1"
+git push origin release-0.1.0-rc1
+```
+
 ### clone the corresponding release branches locally
 ```shell
 #-b release-0.1.0-rc1 Specifies the clone branch -c(config) specifies the configuration core to use. Lf =false turns off the newline conversion

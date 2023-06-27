@@ -13,6 +13,13 @@ SolidUI项目发版流程
 
 如当前开发的源码分支为dev，需要发布0.1.0的版本，创建分支：release-0.1.0-rc1
 
+### tag
+
+```
+git tag -a release-0.1.0-rc1 -m "release 0.1.0-rc1"
+git push origin release-0.1.0-rc1
+```
+
 ### clone对应的release分支到本地
 ```shell
 #-b release-0.1.0-rc1 指定clone分支  -c(config) 指定使用的配置  core.autocrlf=false 关闭自动换行符的转换
