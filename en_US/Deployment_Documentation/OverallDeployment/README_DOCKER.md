@@ -13,14 +13,14 @@ This method needs to install docker-compose first, there are already a lot of in
 
 Download at https://github.com/CloudOrc/SolidUI/releases
 
-Please download the source package solidui-x.x.x-src.src.tar.gz
+Please download the source package solidui-x.x.x-bin.tar.gz
 
 
 ### 2.2 Pull the image and start the service
 
 ```shell script
 # Enter the server (take Centos7 as an example)
-tar -zxvf solidui-x.x.x-src.src.tar.gz
+tar -zxvf solidui-x.x.x-bin.tar.gz
 
 cd solidui-x.x.x-src/solidui-dist/docker/
 
