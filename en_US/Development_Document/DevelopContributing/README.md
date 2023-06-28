@@ -28,7 +28,7 @@ Including participating in and helping to organize community exchanges, communit
 
 ### 2.1 Branch structure
 
-The SolidUI source code may generate some temporary branches, but there are only the following three branches that are really meaningful:
+The SolidUI source code may generate some temporary branches, but two are only the following three branches that are really meaningful:
 
 - release-*: Stable release version;
 - dev: The daily development branch, which is also the target branch for everyone to contribute code. If you want to contribute code, please create a new branch based on the dev branch. When the version is released, a new release branch will be created based on dev;

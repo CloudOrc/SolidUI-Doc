@@ -28,7 +28,7 @@ SolidUI 文档位于[SolidUI_Doc](https://github.com/CloudOrc/SolidUI-Doc) ，�
 
 ### 2.1 分支结构
 
-SolidUI 源码可能会产生一些临时分支，但真正有明确意义的只有以下三个分支：
+SolidUI 源码可能会产生一些临时分支，但真正有明确意义的只有以下二个分支：
 
 - release-*: 稳定的 release 版本；
 - dev: 日常开发分支，也是大家贡献代码的目标分支，如果你想贡献代码，请基于 dev 分支创建新分支，版本发布时会基于dev新建release分支；
