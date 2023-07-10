@@ -72,7 +72,7 @@ password: root
 ### 3.3 服务端启动
 
 ```shell script
-cd solidui-0.1.0-bin/entrance-server
+cd solidui-x.x.x-bin/entrance-server
 # 启动服务
 sh bin/start.sh
 # 停止服务

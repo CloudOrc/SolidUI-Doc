@@ -71,7 +71,7 @@ password: root
 ### 3.3 Server start
 
 ```shell script
-cd solidui-0.1.0-bin/entrance-server
+cd solidui-x.x.x-bin/entrance-server
 # start the service
 sh bin/start.sh
 # Out of service
