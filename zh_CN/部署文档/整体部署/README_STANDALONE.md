@@ -56,7 +56,20 @@ source solidui-x.x.x-bin/entrance-server/conf/sql/mysql/solidui_mysql.sql
 
 ```
 
-### 3.2 服务端启动
+### 3.2 配置修改
+
+```
+cd solidui-x.x.x-bin/entrance-server/conf
+#修改数据库连接信息
+vi application.yaml
+datasource:
+url: jdbc:mysql://localhost:3306/solidui?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+username: root
+password: root
+
+```
+
+### 3.3 服务端启动
 
 ```shell script
 cd solidui-0.1.0-bin/entrance-server

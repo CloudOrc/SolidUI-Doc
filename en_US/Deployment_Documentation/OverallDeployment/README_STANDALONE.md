@@ -55,7 +55,20 @@ CREATE DATABASE solidui DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_
 source solidui-x.x.x-bin/entrance-server/conf/sql/mysql/solidui_mysql.sql
 
 ```
-### 3.2 Server start
+### 3.2 Configuration modification
+
+```
+cd solidui-x.x.x-bin/entrance-server/conf
+#Modify database connection information
+vi application.yaml
+datasource:
+url: jdbc:mysql://localhost:3306/solidui?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+username: root
+password: root
+
+```
+
+### 3.3 Server start
 
 ```shell script
 cd solidui-0.1.0-bin/entrance-server
