@@ -27,7 +27,7 @@ solidui_url="http://127.0.0.1:12345"
 #It can be configured as the ip of the installation machine or use the default value
 solidui_ipaddr=127.0.0.1
 # Port to access the management console
-solidui_port=12345
+solidui_port=8099
 ```
 
 #### 2.1.2 Execute the deployment script
@@ -44,7 +44,7 @@ server {
   server_name localhost;
 
   location / {
-    root /appcom/Install/solidui-web/dist; # Static file directory
+    root /opt/solidui/solidui-web/dist; # Static file directory
     index index.html index.html;
   }
 

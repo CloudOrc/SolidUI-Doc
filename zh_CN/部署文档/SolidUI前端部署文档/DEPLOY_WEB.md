@@ -27,7 +27,7 @@ solidui_url="http://127.0.0.1:12345"
 #可以配置为安装机器的ip 也可以使用默认值
 solidui_ipaddr=127.0.0.1
 # 访问管理台的端口
-solidui_port=12345
+solidui_port=8099
 ```
 
 #### 2.1.2 执行部署脚本
@@ -45,7 +45,7 @@ server {
   server_name  localhost;
 
   location / {
-    root   /appcom/Install/solidui-web/dist; # 静态文件目录 
+    root   /opt/solidui/solidui-web/dist; # 静态文件目录 
     index  index.html index.html;
   }
 
@@ -89,7 +89,7 @@ sudo vi /etc/nginx/conf.d/solidui.conf
 
 ```
 server {
-  listen       8080;# 访问端口
+  listen       8099;# 访问端口
   server_name  localhost;
   #charset koi8-r;
   #access_log  /var/log/nginx/host.access.log  main;
