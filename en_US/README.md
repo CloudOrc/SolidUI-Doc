@@ -1,6 +1,6 @@
 ## Introduction
 
-SolidUI is a AI visualization prototyping and editing platform, support 2D, 3D models, combined with AIGC models for quick editing.
+AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ## Document list
 

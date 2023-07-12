@@ -1,6 +1,6 @@
 ## 引言
 
-SolidUI是AI可视化原型设计和编辑平台，支持2D，3D模型，结合AIGC模型快速编辑。
+AI生成可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。
 
 ## 文档列表
 
