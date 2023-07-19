@@ -82,7 +82,7 @@ sh bin/stop.sh
 
 ### 4.1 Preparations
 
-Refer to [Frontend Deployment](../SolidUI Frontend Deployment Documentation/DEPLOY_WEB.md)
+Refer to [Frontend Deployment](../FrontEendDeployment/DEPLOY_WEB.md)
 
 ### 4.2 Startup
 
