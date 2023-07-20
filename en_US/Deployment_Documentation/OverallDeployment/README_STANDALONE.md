@@ -59,16 +59,16 @@ source solidui-x.x.x-bin/entrance-server/conf/sql/mysql/solidui_mysql.sql
 
 ```
 cd solidui-x.x.x-bin/entrance-server/conf
-#Modify database connection information
+# Modify database connection information
 vi application.yaml
 datasource:
 url: jdbc:mysql://localhost:3306/solidui?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
 username: root
 password: root
 
-#0.2.0 version adds python service configuration
+# 0.2.0 version adds python service configuration
 vi solidui-x.x.x-bin/soliduimodelui/.env
-#Modify database connection information
+# Modify database connection information
 DB_HOST=localhost
 DB_PORT=3306
 DB_NAME=solidui
@@ -86,7 +86,7 @@ sh bin/start.sh
 # Out of service
 sh bin/stop.sh
 
-#0.2.0 version adds python service
+# 0.2.0 version adds python service
 cd solidui-x.x.x-bin
 pip install -e .
 modelui
