@@ -60,16 +60,16 @@ source solidui-x.x.x-bin/entrance-server/conf/sql/mysql/solidui_mysql.sql
 
 ```
 cd solidui-x.x.x-bin/entrance-server/conf
-#修改数据库连接信息
+# 修改数据库连接信息
 vi application.yaml
 datasource:
 url: jdbc:mysql://localhost:3306/solidui?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
 username: root
 password: root
 
-#0.2.0 版本增加python服务配置
+# 0.2.0 版本增加python服务配置
 vi solidui-x.x.x-bin/soliduimodelui/.env
-#修改数据库连接信息
+# 修改数据库连接信息
 DB_HOST=localhost
 DB_PORT=3306
 DB_NAME=solidui
