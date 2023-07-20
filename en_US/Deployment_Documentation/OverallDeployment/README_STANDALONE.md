@@ -66,6 +66,15 @@ url: jdbc:mysql://localhost:3306/solidui?useSSL=false&useUnicode=true&characterE
 username: root
 password: root
 
+#0.2.0 version adds python service configuration
+vi solidui-x.x.x-bin/soliduimodelui/.env
+#Modify database connection information
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=solidui
+DB_USER=root
+DB_PASS=SolidUI@123
+
 ```
 
 ### 3.3 Server start
@@ -76,6 +85,11 @@ cd solidui-x.x.x-bin/entrance-server
 sh bin/start.sh
 # Out of service
 sh bin/stop.sh
+
+#0.2.0 version adds python service
+cd solidui-x.x.x-bin
+pip install -e .
+modelui
 ```
 
 ## 4. Front-end deployment
