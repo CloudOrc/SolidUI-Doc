@@ -18,7 +18,7 @@ docker build  -f ./docker/Dockerfile  -t  solidui-entrance:x.x.x .
 
 ```
 
-### 2.2 服务端镜像构建-soliduimodelui
+### 2.2 服务端镜像构建-soliduimodelui (0.2.0版本后)
 ```shell script
 tar -zxvf solidui-x.x.x-bin.tar.gz
 cd solidui-x.x.x-bin

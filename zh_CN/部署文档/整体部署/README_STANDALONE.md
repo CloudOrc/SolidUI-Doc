@@ -68,7 +68,7 @@ username: root
 password: root
 
 #0.2.0 版本增加python服务配置
-cd solidui-x.x.x-bin/soliduimodelui/.env
+vi solidui-x.x.x-bin/soliduimodelui/.env
 #修改数据库连接信息
 DB_HOST=localhost
 DB_PORT=3306
