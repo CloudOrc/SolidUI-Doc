@@ -9,7 +9,7 @@
 
 ## 2.镜像构建
 
-### 2.1 服务端镜像构建
+### 2.1 服务端镜像构建-entrance-server
 
 ```shell script
 tar -zxvf solidui-x.x.x-bin.tar.gz
@@ -18,8 +18,14 @@ docker build  -f ./docker/Dockerfile  -t  solidui-entrance:x.x.x .
 
 ```
 
+### 2.2 服务端镜像构建-soliduimodelui
+```shell script
+tar -zxvf solidui-x.x.x-bin.tar.gz
+cd solidui-x.x.x-bin
+docker build  -f ./soliduimodelui/docker/Dockerfile  -t  soliduimodelui:x.x.x .
+```
 
-### 2.2 前端镜像构建
+### 2.3 前端镜像构建
 
 ```shell script
 
