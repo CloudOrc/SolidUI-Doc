@@ -67,6 +67,15 @@ url: jdbc:mysql://localhost:3306/solidui?useSSL=false&useUnicode=true&characterE
 username: root
 password: root
 
+#0.2.0 版本增加python服务配置
+cd solidui-x.x.x-bin/soliduimodelui/.env
+#修改数据库连接信息
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=solidui
+DB_USER=root
+DB_PASS=SolidUI@123
+
 ```
 
 ### 3.3 服务端启动
@@ -77,6 +86,11 @@ cd solidui-x.x.x-bin/entrance-server
 sh bin/start.sh
 # 停止服务
 sh bin/stop.sh
+
+#0.2.0 版本增加python服务
+cd solidui-x.x.x-bin
+pip install -e .
+modelui
 ```
 
 ## 4.前端部署
