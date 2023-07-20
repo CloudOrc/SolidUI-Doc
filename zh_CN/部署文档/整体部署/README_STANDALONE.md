@@ -40,7 +40,7 @@ drwxr-xr-x 4 root root  4096 Jun 11 18:26 solidui-web
 
 ### 3.1 准备工作
 
-```
+```shell script
 # 初始化数据库ddl 和 dml 路径
 solidui-x.x.x-bin/entrance-server/conf/sql/mysql/solidui_mysql.sql
 
@@ -58,7 +58,7 @@ source solidui-x.x.x-bin/entrance-server/conf/sql/mysql/solidui_mysql.sql
 
 ### 3.2 配置修改
 
-```
+```shell script
 cd solidui-x.x.x-bin/entrance-server/conf
 # 修改数据库连接信息
 vi application.yaml

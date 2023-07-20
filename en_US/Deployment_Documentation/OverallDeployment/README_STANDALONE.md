@@ -40,7 +40,7 @@ drwxr-xr-x 4 root root 4096 Jun 11 18:26 solidui-web
 
 ### 3.1 Preparations
 
-```
+```shell script
 # Initialize database ddl and dml paths
 solidui-x.x.x-bin/entrance-server/conf/sql/mysql/solidui_mysql.sql
 
@@ -57,7 +57,7 @@ source solidui-x.x.x-bin/entrance-server/conf/sql/mysql/solidui_mysql.sql
 ```
 ### 3.2 Configuration modification
 
-```
+```shell script
 cd solidui-x.x.x-bin/entrance-server/conf
 # Modify database connection information
 vi application.yaml
