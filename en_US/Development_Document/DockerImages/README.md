@@ -23,6 +23,10 @@ docker build  -f ./docker/Dockerfile  -t  solidui-entrance:x.x.x .
 ```shell script
 tar -zxvf solidui-x.x.x-bin.tar.gz
 cd solidui-x.x.x-bin
+# update .env
+vi soliduimodelui/.env
+SNAKEMQ_LISTENER=0.0.0.0
+SNAKEMQ_CONNECTOR=soliduimodelui
 docker build  -f ./soliduimodelui/docker/Dockerfile  -t  soliduimodelui:x.x.x .
 ```
 
