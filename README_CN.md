@@ -34,6 +34,10 @@
 ---
 [English](README.md) | [中文](README_CN.md)
 
+# SolidUI-Doc项目过时
+
+请注意，SolidUI-Doc项目已不再维护，可能不再适用于最新的系统/软件版本。你仍然可以查阅和使用这些代码，但我们不再对其进行更新或修复。所有内容迁移到[SolidUI-Website](https://github.com/CloudOrc/SolidUI-Website)
+
 # 介绍
 
 AI生成可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。
