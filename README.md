@@ -34,11 +34,15 @@
 ---
 [English](README.md) | [中文](README_CN.md)
 
+## THIS PROJECT IS DEPRECATED
+
+Please note that the SolidUI-Doc project is no longer maintained and may no longer work with the latest system/software versions. You can still view and use the code, but we will no longer update or fix it. All content migrated to [SolidUI-Website](https://github.com/CloudOrc/SolidUI-Website)
+
 # introduce
 
 AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
-## Documents
+# Documents
 
 &nbsp;&nbsp;&nbsp;&nbsp;Please visit [English Documents](en_US) to view the complete documents。
 
